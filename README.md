@@ -7,3 +7,4 @@ You can play the game at: https://msworkshop2024.github.io/github-games-nicruo
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
